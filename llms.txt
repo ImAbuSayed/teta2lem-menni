@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/teta2lem-menni/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License Abu Sayed's Teta2lem Menni](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Apply for Music License: Teta2lem Menni](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
